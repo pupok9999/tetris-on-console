@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1791174281 source:c:\users\Камила\documents\tetris\tetris\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<cstdio>
+
